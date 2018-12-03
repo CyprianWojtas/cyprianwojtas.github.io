@@ -1,7 +1,14 @@
 [
   {
     "nazwa": "Wydarzenia kulturalne",
+	"opis": "Witryna do wyszykiwania wydarzeń kulturalnych w najbliższej okolicy stworzona przez klasę 3 TI",
     "link": "https://cyprianwojtas.github.io/wydarzenia/",
     "obraz": "https://cyprianwojtas.github.io/img/wydarzenia.png"
+  },
+  {
+    "nazwa": "Fraktal Kocha",
+	"opis": "Generator fraktali napisany w języku Java Script",
+    "link": "https://cyprianwojtas.github.io/fraktal/",
+    "obraz": "https://cyprianwojtas.github.io/img/fraktal.png"
   }
 ]
